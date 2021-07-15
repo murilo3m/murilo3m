@@ -6,7 +6,7 @@ Software Engineer who loves to create and explore new things!
 
 - 🌱 Currently learning Golang, Python and Data Engineering
 - 🇧🇷 Living in Franca, Brazil
-- ⚡ Fun fact: Lover of Games 🎮🖥️, Basketball 🏀⛹🏻 and trips ✈️🗺️
+- ⚡ Fun fact: I Love - Games 🎮🖥️ | Basketball 🏀⛹🏻 | Trips ✈️🗺️
 
 ## 🚀💻 Technologies & Tools
 
