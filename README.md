@@ -2,7 +2,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white://https://www.linkedin.com/in/murilo-maldonado-mendes-31480a98/)](https://www.linkedin.com/in/murilo-maldonado-mendes-31480a98/)
 
-Software Engineer who loves to create and explore new things!
+Software and Data Engineer who loves to create and explore new things!
 
 - 🌱 Currently learning Golang, Python and Data Engineering
 - 🇧🇷 Living in Franca, Brazil
