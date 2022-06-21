@@ -4,7 +4,7 @@
 
 Software and Data Engineer who loves to create and explore new things!
 
-- 🌱 Currently learning Golang, Python and Data Engineering
+- 🌱 Currently learning Golang, Java (ports and adapters architecture) and Data Engineering
 - 🌎 Living in Franca, Brazil
 - 🔥 I also Love: Games 🎮🖥️ | Basketball 🏀⛹🏻 | Trips ✈️🗺️
 
