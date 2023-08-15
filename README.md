@@ -2,9 +2,9 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white://https://www.linkedin.com/in/murilo-maldonado-mendes-31480a98/)](https://www.linkedin.com/in/murilo-maldonado-mendes-31480a98/)
 
-Software and Data Engineer who loves to create and explore new things!
+Software who loves to create and explore new things!
 
-- 🌱 Currently learning Golang, Java (ports and adapters architecture) and Data Engineering
+- 🌱 Currently learning Golang, improving my concepts in Java and also adventuring in Flutter.
 - 🌎 Living in Franca, Brazil
 - 🔥 I also Love: Games 🎮🖥️ | Basketball 🏀⛹🏻 | Trips ✈️🗺️
 
