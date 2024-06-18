@@ -2,7 +2,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white://https://www.linkedin.com/in/murilo-maldonado-mendes-31480a98/)](https://www.linkedin.com/in/murilo-maldonado-mendes-31480a98/)
 
-Software who loves to create and explore new things!
+Software Engineer who loves to create and explore new things!
 
 - 🌱 Currently learning Golang, improving my concepts in Java and also adventuring in Flutter.
 - 🌎 Living in Franca, Brazil
