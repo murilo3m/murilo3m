@@ -4,7 +4,7 @@
 
 Software Engineer who loves to create and explore new things!
 
-- 🌱 Currently learning Golang, improving my concepts in Java.
+- 🌱 Currently learning Golang and improving my concepts in Java.
 - 🌎 Living in Franca, Brazil
 - 🔥 I also Love: Games 🎮🖥️ | Basketball 🏀⛹🏻 | Trips ✈️🗺️
 
