@@ -9,6 +9,7 @@ Strong problem-solving mindset, with the ability to quickly understand complex c
 Driven by solving real problems and creating value through technology.
 
 🌎 Living in Franca, Brazil
+
 🔥 I also Love: Games 🎮🖥️ | Basketball 🏀⛹🏻 | Trips ✈️🗺️
 
 [https://murilo3m.github.io/](https://murilo3m.github.io/)
